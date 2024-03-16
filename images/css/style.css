@@ -1,0 +1,10 @@
+.hthead{
+    display: flex;
+}
+/* .left{
+    align-items: ;
+} */
+
+.br-radius{
+    border-radius: 20px;
+}
