@@ -1,0 +1,67 @@
+
+
+.main-body{
+    padding-left: 80px;
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+    padding-right: 80px;
+}
+
+.left-sec{
+    
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.left-sec img {
+    width: 60%;
+    border-radius: 500px;
+}
+
+.left-sec h1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 120px;
+    /* font-family: Dancing Script; */
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>;
+    font-style: normal; */
+
+}
+
+.left-sec fieldset {
+    border-radius: 20px;
+    background-color: lightcoral;
+}
+
+.right-sec{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.right-sec h1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+.bdr-h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 50%;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.right-sec fieldset{
+    border-radius: 20px;
+    background-color: lightsalmon;
+}
